@@ -13,5 +13,6 @@ int main () {
 	gt = (lembur*1.5+40)+gape;
 	pajak=gt*0.15;
 	gt=gt-pajak;
+	cout<<"Gaji bersih pegawai : "<< gt<<endl;
 	
 }
