@@ -4,4 +4,5 @@
 using namespace std;
 
 int main () {
+	int gp,jk,lembur,gt,pajak;
 }
