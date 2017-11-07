@@ -8,4 +8,7 @@ int main () {
 	cout << "Masukkan gaji pegawai : ";
 	cin >> gape;
 	cout << "Masukkan jam kerja    : ";
-	cin >> jake;}
+	cin >> jake;
+	lembur= jake - 40;
+	gt = (lembur*1.5+40)+gape;
+}
