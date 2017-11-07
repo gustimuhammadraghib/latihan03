@@ -11,4 +11,7 @@ int main () {
 	cin >> jake;
 	lembur= jake - 40;
 	gt = (lembur*1.5+40)+gape;
+	pajak=gt*0.15;
+	gt=gt-pajak;
+	
 }
